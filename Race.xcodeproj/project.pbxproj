@@ -13,6 +13,7 @@
 		EE4B2C4B2546FE3500EF9BE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE4B2C492546FE3500EF9BE4 /* Main.storyboard */; };
 		EE4B2C4D2546FE3700EF9BE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE4B2C4C2546FE3700EF9BE4 /* Assets.xcassets */; };
 		EE4B2C502546FE3700EF9BE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE4B2C4E2546FE3700EF9BE4 /* LaunchScreen.storyboard */; };
+		EE4B2C582546FF9300EF9BE4 /* car.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4B2C572546FF9300EF9BE4 /* car.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE4B2C4C2546FE3700EF9BE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE4B2C4F2546FE3700EF9BE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE4B2C512546FE3700EF9BE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE4B2C572546FF9300EF9BE4 /* car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EE4B2C432546FE3500EF9BE4 /* AppDelegate.swift */,
 				EE4B2C452546FE3500EF9BE4 /* SceneDelegate.swift */,
 				EE4B2C472546FE3500EF9BE4 /* ViewController.swift */,
+				EE4B2C572546FF9300EF9BE4 /* car.swift */,
 				EE4B2C492546FE3500EF9BE4 /* Main.storyboard */,
 				EE4B2C4C2546FE3700EF9BE4 /* Assets.xcassets */,
 				EE4B2C4E2546FE3700EF9BE4 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				EE4B2C482546FE3500EF9BE4 /* ViewController.swift in Sources */,
 				EE4B2C442546FE3500EF9BE4 /* AppDelegate.swift in Sources */,
+				EE4B2C582546FF9300EF9BE4 /* car.swift in Sources */,
 				EE4B2C462546FE3500EF9BE4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
